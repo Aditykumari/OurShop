@@ -1,0 +1,8 @@
+[1]Create Directory structure
+[2] Create a yarn project and install all dependencies
+     -Dependencies
+         -express
+         -ejs express-ejs-layouts
+     -Dev Dependencies
+         -nodemon    
+[3] Create Express server -create a server.js file
